@@ -1,0 +1,1 @@
+javascript:void function(){var a=document.body,b=!1,c="[";document.addEventListener("mouseover",function(b){a=b.target}),window.addEventListener("keydown",function(a){a.key==c%3Fb=!b:"\\"==a.key%26%26(c=prompt("Change keybind:")[0].toLowerCase())}),setInterval(function(){b%26%26a.click()},1)}();
