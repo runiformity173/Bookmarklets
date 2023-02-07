@@ -1,0 +1,1 @@
+javascript:(function()%7Bx %3D prompt(%27Select Playback Rate:%27)%3Bdocument.querySelector(%27video%27).playbackRate %3D x%3B%7D)()%3B
