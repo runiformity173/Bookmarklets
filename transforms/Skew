@@ -1,0 +1,1 @@
+javascript:void function(){document.getElementsByTagName("body")[0].style.transform="skew("+prompt("How Many Degrees?","180")+"deg)"}();
