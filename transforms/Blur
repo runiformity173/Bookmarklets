@@ -1,0 +1,1 @@
+javascript: (function () { document.body.style.filter = 'blur('+prompt("Amount of blur","5")+'px)'; })();Footer
