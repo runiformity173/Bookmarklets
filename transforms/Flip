@@ -1,0 +1,1 @@
+javascript:void function(){document.getElementsByTagName("body")[0].style.transform="rotate("+prompt("How Many Degrees?","180")+"deg)"}();
